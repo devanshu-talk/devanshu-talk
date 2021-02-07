@@ -5,10 +5,5 @@
 - 🤔 I’m looking for Internship.
 - ⚡ 2021 Goals: Contribute more to open source projects.
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  [![Manoj's github stats](https://github-readme-stats.vercel.app/api?username=devanshu-talk)]
-
-</details>
+https://github-readme-stats.vercel.app/api?username=devanshu-talk&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
 
