@@ -14,3 +14,11 @@
 [website]: https://devanshu-talk.github.io/Resume_website.github.io/
 [web1]: https://devanshu-talk.github.io/Resume_website.github.io/
 [linkedin]: https://www.linkedin.com/in/devanshu-jain-318848193/
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  [![Manoj's github stats](https://github-readme-stats.vercel.app/api?username=devanshu-talk)]
+
+</details>
+
